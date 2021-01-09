@@ -1,4 +1,6 @@
-### Hi there 👋
+### Hi there, I'm Kevin! 👋
+
+Constantly working to improve :D
 
 <!--
 **KevinW404/KevinW404** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
